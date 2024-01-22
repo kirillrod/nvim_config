@@ -10,6 +10,7 @@ return {
         "lua_ls",
         "emmet_ls",
         "tailwindcss",
+        "biome",
       })
     end,
   },
